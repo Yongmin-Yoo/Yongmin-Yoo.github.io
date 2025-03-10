@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate in the School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and also member of [Data Science Lab](https://datasciences.org). My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
+I'm a Ph.D Candidate in the School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/). Also member of [Data Science Lab](https://datasciences.org). My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
 
 Prior to my PhD, I earned a Master’s degree in Industrial Engineering from [Inha University](https://en.wikipedia.org/wiki/Inha_University). I also worked as an NLP researcher at [NHN](https://www.nhn.com/en-US), one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
 
@@ -38,28 +38,27 @@ I am open to collaborations in these areas and happy to mentor undergraduate stu
 💡News
 ======
 
-<div class="news-list">
-  <div class="news-item">
-    <p class="news-date">Mar, 2025</p>
-    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</p>
+<div>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="#">Asian Journal of Research in Computer Science</a>.</div>
   </div>
   
-  <div class="news-item">
-    <p class="news-date">Jan, 2025</p>
-    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</p>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="#">Journal Of Computer Sciences And Informatics</a>.</div>
   </div>
   
-  <div class="news-item">
-    <p class="news-date">Oct , 2024</p>
-    <p class="news-content">Submitted to <a href="https://aclrollingreview.org/">ACL Rolling Review</a>, <i>"PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims"</i> </p>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Oct, 2024</div>
+    <div>Submitted to <a href="#">ACL Rolling Review</a>, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
   </div>
   
-  <div class="news-item">
-    <p class="news-date">Sep , 2024</p>
-    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</p>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
+    <div>I was invited to serve as a Reviewer for <a href="#">ICONIP 2024</a>.</div>
   </div>
 </div>
-
 
 📚Publications
 ======
