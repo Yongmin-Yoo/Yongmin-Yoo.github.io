@@ -37,10 +37,6 @@ I am open to collaborations in these areas and happy to mentor undergraduate stu
 
 💡News
 ======
-- Served as Reviewer for <b>Asian Journal of Research in Computer Science</b>
-- Served as Reviewer for <b>Journal Of Computer Sciences And Informatics</b>
-- Submitted to ACL Rolling Review on December 2024, "*PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*"
-- Served as Reviewer for <b>ICONIP2024</b>
 
 <div class="news-list">
   <div class="news-item">
