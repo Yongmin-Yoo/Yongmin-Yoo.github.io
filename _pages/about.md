@@ -41,7 +41,6 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 
 <div class="news-container">
   <div class="news-item highlight">
-    <div class="news-date">Mar 2025</div>
     <div class="news-content">Submitted to ACL Rolling Review: <b>PatentScore</b>: Multi-dimensional Evaluation of LLM-Generated Patent Claims</div>
   </div>
   
@@ -65,7 +64,7 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
   </li>
   
   <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA2023</span>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA</span>
     <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, Yongmin Yoo, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
   </li>
 
