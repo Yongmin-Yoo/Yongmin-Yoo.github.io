@@ -42,12 +42,40 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 
 📚Publications
 ======
+
 <ul style="list-style-type: disc;">
   <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access, Q1</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10320355">Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods</a>, Lj Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Artificial Intelligence Review, IF=10.7</span>
+    <a href="https://example.com/paper1">Natural Language Processing in Patents: A Survey</a>, Lekang Jiang, Stephan Goetz.
+  </li>
+  
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
+    <a href="https://example.com/paper2">Can Large Language Models Generate High-quality Patent Claims?</a>, Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz.
+    <br>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
+    </span>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">7</span>
+    <span style="display: inline-block; background-color: #3a7bd5; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16"> HuggingFace Dataset
+    </span>
+  </li>
+  
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
+    <a href="https://example.com/paper3">Patent-CR: A Dataset for Patent Claim Revision</a>, Lekang Jiang, Pascal A Scherz, Stephan Goetz.
+    <br>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
+    </span>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">2</span>
+    <span style="display: inline-block; background-color: #3a7bd5; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16"> HuggingFace Dataset
+    </span>
+  </li>
+  
+  <li>
+    <a href="https://example.com/all-publications">See More</a>
   </li>
 </ul>
-
-<span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods](https://ieeexplore.ieee.org/abstract/document/10320355), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
-
