@@ -5,32 +5,33 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Conference</h2>
 
-{% include base_path %}
+<ul style="list-style-type: disc;">
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA 2022</span>
+    <a href="https://example.com/paper1" target="_blank">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, Yongmin Yoo, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim
+  </li>
+  
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Journals</h2>
 
+<ul style="list-style-type: disc;">
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Symmetry, Q2</span>
+    <a href="https://example.com/paper1" target="_blank">A novel hybrid methodology of measuring sentence similarity</a>, Yongmin Yoo, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
 
+  </li>
+  
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access, Q1</span>
+    <a href="https://example.com/paper2" target="_blank">Improving shopping mall revenue by real-time customized digital coupon issuance</a>, Daeho Seo, Yongmin Yoo
 
+    <br>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
+      <i class="fab fa-github"></i> Code Stars
+    </span>
+    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">7</span>
+  </li>
+</ul>
