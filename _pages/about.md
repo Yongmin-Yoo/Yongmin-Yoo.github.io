@@ -46,12 +46,12 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 <ul style="list-style-type: disc;">
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10320355">Characterizing the Initial and Subsequent NFT Sales Market Dynamics: Perspectives From Boom and Slump Periods </a>, Ej Cho, George Jensen, **Yongmin Yoo**, Aniket Mahanti, Jong-Kyou Kim
+    <a href="https://ieeexplore.ieee.org/abstract/document/10320355">Characterizing the Initial and Subsequent NFT Sales Market Dynamics: Perspectives From Boom and Slump Periods </a>, Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim
   </li>
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance</a>, Daeho Seo, **Yongmin Yoo**.
+    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance</a>, Daeho Seo, Yongmin Yoo.
   </li>
   
   <li>
