@@ -22,11 +22,11 @@ repository               : "https://yongmin-yoo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile.png"
+  avatar           : "/images/yongmin.jpg"
   name             : "Yongmin Yoo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate in Macquarie University"
-  location         : "Sydeny, Australia"
+  location         : "Sydney, Australia"
   employer         : "Macquarie University"
   uri              : # URL
   email            : "yooyongmin91@gmail.com" 
