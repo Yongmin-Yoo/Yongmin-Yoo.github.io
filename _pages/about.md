@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a second-year PhD student in the School of Computing at Macquarie University, supervised by Longbing Cao. My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
+Prior to my PhD, I earned a Master’s degree in Industrial Engineering from Inha University. I also worked as an NLP researcher at NHN, one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
+If you're interested in these topics or potential collaborations, feel free to get in touch!
+updated: 2025.03
+
 
 A data-driven personal website
 ======
