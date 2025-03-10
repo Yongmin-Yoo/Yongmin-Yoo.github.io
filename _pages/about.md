@@ -39,7 +39,7 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 ======
 
 
-- >Submitted to ACL Rolling Review:<b>PatentScore</b>: Multi-dimensional Evaluation of LLM-Generated Patent Claims
+- Submitted to ACL Rolling Review:<b>PatentScore</b>: Multi-dimensional Evaluation of LLM-Generated Patent Claims
 
 
 📚Publications
