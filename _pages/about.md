@@ -51,7 +51,7 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
-    <a href="https://example.com/paper2">Can Large Language Models Generate High-quality Patent Claims?</a>, Lekang Jiang, Caiqi Zhang, Pascal A Scherz, Stephan Goetz.
+    <a href="https://example.com/paper2">Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance</a>, Daeho Seo, **Yongmin Yoo**.
     <br>
     <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
@@ -64,7 +64,7 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
-    <a href="https://example.com/paper3">Patent-CR: A Dataset for Patent Claim Revision</a>, Lekang Jiang, Pascal A Scherz, Stephan Goetz.
+    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, **Yongmin Yoo**, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
     <br>
     <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
