@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate in the School of Computing at Macquarie University, supervised by Longbing Cao. My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
+I'm a Ph.D Candidate in the School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and also member of [Data Science Lab]([https://en.wikipedia.org/wiki/Longbing_Cao](https://datasciences.org). My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
 
 Prior to my PhD, I earned a Master’s degree in Industrial Engineering from Inha University. I also worked as an NLP researcher at NHN, one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
 
