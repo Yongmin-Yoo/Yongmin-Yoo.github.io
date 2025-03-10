@@ -42,6 +42,29 @@ I am open to collaborations in these areas and happy to mentor undergraduate stu
 - Submitted to ACL Rolling Review on December 2024, "*PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*"
 - Served as Reviewer for <b>ICONIP2024</b>
 
+<div class="news-list">
+  <div class="news-item">
+    <p class="news-date">Mar, 2025</p>
+    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</p>
+  </div>
+  
+  <div class="news-item">
+    <p class="news-date">Jan, 2025</p>
+    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</p>
+  </div>
+  
+  <div class="news-item">
+    <p class="news-date">Oct , 2024</p>
+    <p class="news-content">Submitted to <a href="https://aclrollingreview.org/">ACL Rolling Review</a>, <i>"PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims"</i> </p>
+  </div>
+  
+  <div class="news-item">
+    <p class="news-date">Sep , 2024</p>
+    <p class="news-content">I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</p>
+  </div>
+</div>
+
+
 📚Publications
 ======
 
