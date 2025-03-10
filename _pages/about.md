@@ -42,5 +42,12 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 
 📚Publications
 ======
-* <span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods]([https://example.com/paper1](https://ieeexplore.ieee.org/abstract/document/10320355)), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
+<ul style="list-style-type: disc;">
+  <li>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Artificial Intelligence Review, IF=10.7</span>
+    <a href="https://example.com/paper1">Natural Language Processing in Patents: A Survey</a>, Lekang Jiang, Stephan Goetz.
+  </li>
+</ul>
+
+<span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods]([https://example.com/paper1](https://ieeexplore.ieee.org/abstract/document/10320355)), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
 
