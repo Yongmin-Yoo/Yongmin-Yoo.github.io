@@ -44,10 +44,10 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 ======
 <ul style="list-style-type: disc;">
   <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Artificial Intelligence Review, IF=10.7</span>
-    <a href="https://example.com/paper1">Natural Language Processing in Patents: A Survey</a>, Lekang Jiang, Stephan Goetz.
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access, Q1</span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10320355">Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods</a>, Lj Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
   </li>
 </ul>
 
-<span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods]([https://example.com/paper1](https://ieeexplore.ieee.org/abstract/document/10320355)), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
+<span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods](https://ieeexplore.ieee.org/abstract/document/10320355), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
 
