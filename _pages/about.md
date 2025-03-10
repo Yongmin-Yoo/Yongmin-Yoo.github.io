@@ -20,10 +20,10 @@ If you're interested in these topics or potential collaborations, feel free to g
   Exploring the application of Natural Language Processing (NLP) and Large Language Models (LLMs) in the patent domain, including patent text generation, patent analysis, and innovation evaluation.  
 
 - **Patent Data & AI**  
-  Investigating **LLM-driven patent similarity assessment, innovation quantification, and legal-tech applications** to enhance patent intelligence.  
+  Investigating LLM-driven patent similarity assessment, innovation quantification, and legal-tech applications to enhance patent intelligence.  
 
 - **General LLM Research**  
-  Studying the capabilities, limitations, and optimization techniques** of LLMs, including fine-tuning, evaluation methods, and domain-specific adaptations.  
+  Studying the capabilities, limitations, and optimization techniques of LLMs, including fine-tuning, evaluation methods, and domain-specific adaptations.  
 
 I am open to collaborations in these areas and happy to **mentor undergraduate students** interested in LLM research or pursuing graduate studies. Feel free to reach out! 
 
@@ -42,4 +42,5 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
 
 📚Publications
 ======
+* <span class="publication-badge">IEEE Access, Q1</span> [Characterizing the initial and subsequent NFT sales market dynamics: Perspectives from boom and slump periods]([https://example.com/paper1](https://ieeexplore.ieee.org/abstract/document/10320355)), Ej Cho, George Jensen, Yongmin Yoo, Aniket Mahanti, Jong-Kyou Kim.
 
