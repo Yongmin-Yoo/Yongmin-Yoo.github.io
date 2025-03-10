@@ -22,14 +22,14 @@ repository               : "https://yongmin-yoo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Yongmin Yoo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D Candidate in Macquarie University"
+  location         : "Australia"
+  employer         : "Macquarie University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yooyongmin91@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
