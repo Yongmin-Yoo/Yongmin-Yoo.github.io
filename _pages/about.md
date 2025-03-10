@@ -58,13 +58,13 @@ I am open to collaborations in these areas and happy to mentor undergraduate stu
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, <b>Yongmin Yoo</b>, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
+    <a href="https://ieeexplore.ieee.org/abstract/document/9680049">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, <b>Yongmin Yoo</b>, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
   </li>
 
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Symmetry</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">MA novel hybrid methodology of measuring sentence similarity</a>, <b>Yongmin Yoo</b>, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
+    <a href="https://www.mdpi.com/2073-8994/13/8/1442">MA novel hybrid methodology of measuring sentence similarity</a>, <b>Yongmin Yoo</b>, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
   </li>
 
 </ul>
