@@ -50,32 +50,19 @@ I am open to collaborations in these areas and happy to **mentor undergraduate s
   </li>
   
   <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access</span>
     <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance</a>, Daeho Seo, **Yongmin Yoo**.
-    <br>
-    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
-    </span>
-    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">7</span>
-    <span style="display: inline-block; background-color: #3a7bd5; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16"> HuggingFace Dataset
-    </span>
   </li>
   
   <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">NAACL 2025</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, **Yongmin Yoo**, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
-    <br>
-    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 2px; font-size: 0.8em;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="16" height="16"> Code Stars
-    </span>
-    <span style="display: inline-block; background-color: #f5f5f5; color: #333; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">2</span>
-    <span style="display: inline-block; background-color: #3a7bd5; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="16" height="16"> HuggingFace Dataset
-    </span>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA2023</span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, Yongmin Yoo, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
   </li>
+
   
   <li>
-    <a href="https://example.com/all-publications">See More</a>
+    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Symmetry</span>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">MA novel hybrid methodology of measuring sentence similarity</a>, Yongmin Yoo, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
   </li>
+
 </ul>
