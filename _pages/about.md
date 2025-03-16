@@ -94,6 +94,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 </ul>
 
+
 <div style="text-align: center; margin-top: 30px;">
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1c3yu&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
 </div>
