@@ -11,6 +11,7 @@ I'm a Ph.D. Candidate in the School of Computing at Macquarie University, superv
 
 I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney.
 
+
 Prior to my Ph.D, I earned a Master’s degree in Industrial Engineering from [Inha University](https://en.wikipedia.org/wiki/Inha_University). I also worked as an NLP researcher at [NHN](https://www.nhn.com/en-US), one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
 
 If you're interested in these topics or potential collaborations, feel free to get in touch!
@@ -60,6 +61,12 @@ If you're interested in these topics or potential collaborations, feel free to g
   </div>
 </div>
 
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2024</div>
+    <div>I started my Ph.D. program in the School of Computing at Macquarie University.</div>
+  </div>
+</div>
+
 📚Publications
 ======
 
@@ -86,3 +93,7 @@ If you're interested in these topics or potential collaborations, feel free to g
   </li>
 
 </ul>
+
+<div style="text-align: center; margin-top: 30px;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1c3yu&cl=ffffff&w=a"></script>
+</div>
