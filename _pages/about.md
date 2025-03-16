@@ -7,8 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D Candidate in the School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/). Also member of [Data Science Lab](https://datasciences.org). My research focuses on how advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) can transform the patent industry. I work on patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
+I'm a Ph.D. Candidate in the*School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/). I am also a member of the [Data Science Lab](https://datasciences.org). My research focuses on leveraging advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) to transform the patent industry. I specialize in patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
 
+I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney.
 Prior to my PhD, I earned a Master’s degree in Industrial Engineering from [Inha University](https://en.wikipedia.org/wiki/Inha_University). I also worked as an NLP researcher at [NHN](https://www.nhn.com/en-US), one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
 
 If you're interested in these topics or potential collaborations, feel free to get in touch!
@@ -24,8 +25,6 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 - **General LLM Research**  
   Studying the capabilities, limitations, and optimization techniques of LLMs, including fine-tuning, evaluation methods, and domain-specific adaptations.  
-
-I am open to collaborations in these areas and happy to mentor undergraduate students interested in LLM research or pursuing graduate studies. Feel free to reach out! 
 
 
 
