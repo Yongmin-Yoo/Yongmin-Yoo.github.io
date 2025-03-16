@@ -63,7 +63,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2024</div>
-    <div>I started my Ph.D. program in the School of Computing at [Macquarie University](https://www.mq.edu.au/?utm_source=google&utm_medium=cpc&utm_campaign=brand-2023&utm_content=Brand_Exact_NA_NA-Macquarie+Uni&utm_term=macquarie+university&gad_source=1&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v-5A9bijTiA8Jzwn66iGdTD6WD0olfJVTuDmUgdxkOE7Qljh6YAvt4aAjF6EALw_wcB&gclsrc=aw.ds).</div>
+    <div>I started my Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/?utm_source=google&utm_medium=cpc&utm_campaign=brand-2023&utm_content=Brand_Exact_NA_NA-Macquarie+Uni&utm_term=macquarie+university&gad_source=1&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v-5A9bijTiA8Jzwn66iGdTD6WD0olfJVTuDmUgdxkOE7Qljh6YAvt4aAjF6EALw_wcB&gclsrc=aw.ds">Macquarie University</a>.</div>
   </div>
 
 
