@@ -89,7 +89,7 @@ If you're interested in these topics or potential collaborations, feel free to g
   
   <li>
     <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Symmetry</span>
-    <a href="https://www.mdpi.com/2073-8994/13/8/1442">MA novel hybrid methodology of measuring sentence similarity</a>, <b>Yongmin Yoo</b>, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
+    <a href="https://www.mdpi.com/2073-8994/13/8/1442">A novel hybrid methodology of measuring sentence similarity</a>, <b>Yongmin Yoo</b>, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
   </li>
 
 </ul>
