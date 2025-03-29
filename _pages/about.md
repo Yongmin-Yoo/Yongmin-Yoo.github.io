@@ -38,7 +38,12 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 💡News
 ======
-
+<div>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">ICJAI 2025</a>.</div>
+  </div>
+  
 <div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
