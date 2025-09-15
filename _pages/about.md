@@ -36,7 +36,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 <h2>💡News</h2>
 
 - **Nov 2025**  
-  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a>: *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
+  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main Conference: *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
 
 - **Feb 2024**  
   Started Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/">Macquarie University</a>
