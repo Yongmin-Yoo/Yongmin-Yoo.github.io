@@ -20,8 +20,8 @@ I work on trustworthy text generation and evaluation using large language models
 If you're interested in these topics or potential collaborations, feel free to get in touch!
 
 
-🔍Research Interests
-======
+<h2>Research Interests</h2>
+
 - **LLMs for High-Stakes Documents**  
   Reliable generation and evaluation of legal and technical documents (e.g., patents) using large language models.
 
@@ -33,8 +33,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 
-💡News
-======
+<h2>💡News</h2>
 <div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Nov, 2025</div>
