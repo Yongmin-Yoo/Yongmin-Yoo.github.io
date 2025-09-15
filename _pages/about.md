@@ -80,8 +80,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
 </div>
 
-💻Service
-======
+<h2>💻Service</h2>
 
 <div style="display: flex; margin-bottom: 1em;">
   <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
