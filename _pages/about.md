@@ -1,4 +1,4 @@
----
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/abc9e104-a3c6-49c5-97e8-585c066bf83d" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a6a441ef-76f2-4f4d-b6e6-a7e248f4edfb" />---
 permalink: /
 title: "👨‍🎓About Me"
 author_profile: true
@@ -37,49 +37,15 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 💡News
 ======
-<div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Oct, 2024</div>
-  <div>Getting Acceptance <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main conference, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
-</div>
-  
 <div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
-  </div>
-  
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
-  </div>
-  
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
-  </div>
-  
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
-  </div>
-  
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Oct, 2024</div>
-    <div>Submitted to <a href="https://aclrollingreview.org/">ACL Rolling Review</a>, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
-  </div>
-  
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
-  </div>
-</div>
+    <div>Getting Acceptance <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main conference, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
 
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2024</div>
     <div>I started my Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/?utm_source=google&utm_medium=cpc&utm_campaign=brand-2023&utm_content=Brand_Exact_NA_NA-Macquarie+Uni&utm_term=macquarie+university&gad_source=1&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v-5A9bijTiA8Jzwn66iGdTD6WD0olfJVTuDmUgdxkOE7Qljh6YAvt4aAjF6EALw_wcB&gclsrc=aw.ds">Macquarie University</a>.</div>
-  </div>
+</div>
 
 
 
@@ -114,4 +80,24 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <div style="text-align: center; margin-top: 30px;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
+</div>
+
+💻Service
+======
+<div>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
+
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
+  
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
+  
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
 </div>
