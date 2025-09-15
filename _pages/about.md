@@ -20,7 +20,7 @@ I work on trustworthy text generation and evaluation using large language models
 If you're interested in these topics or potential collaborations, feel free to get in touch!
 
 
-<h2>Research Interests</h2>
+<h2>🔍 Research Interests</h2>
 
 - **LLMs for High-Stakes Documents**  
   Reliable generation and evaluation of legal and technical documents (e.g., patents) using large language models.
@@ -46,6 +46,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 <h2>📚Publications</h2>
+
 
 - **Characterizing the Initial and Subsequent NFT Sales Market Dynamics**  
   Perspectives from boom and slump periods. IEEE Access, 2023.  
