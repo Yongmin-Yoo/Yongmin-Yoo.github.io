@@ -89,7 +89,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 </div>
 
 <div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+  <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2025</div>
   <div>Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
 </div>
 
