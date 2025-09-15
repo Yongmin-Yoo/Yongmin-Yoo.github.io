@@ -37,7 +37,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 ======
 <div>
   <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Oct, 2024</div>
+    <div style="flex: 0 0 100px; font-weight: bold;">Nov, 2025</div>
     <div>Getting Acceptance <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main conference, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
 
   <div style="display: flex; margin-bottom: 1em;">
