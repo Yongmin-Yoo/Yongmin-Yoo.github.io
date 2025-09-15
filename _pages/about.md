@@ -35,14 +35,19 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 
-
-
-
-
-
-
 💡News
 ======
+<div style="display: flex; margin-bottom: 1em;">
+  <div style="flex: 0 0 100px; font-weight: bold;">Oct, 2024</div>
+  <div>Getting Acceptance <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main conference, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
+</div>
+  
+<div>
+  <div style="display: flex; margin-bottom: 1em;">
+    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
+  </div>
+  
 <div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
