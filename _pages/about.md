@@ -47,37 +47,24 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 
-📚Publications
-======
+<h2>📚Publications</h2>
 
-<ul style="list-style-type: disc;">
-  <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10320355">Characterizing the Initial and Subsequent NFT Sales Market Dynamics: Perspectives From Boom and Slump Periods </a>, Ej Cho, George Jensen, <b>Yongmin Yoo</b>, Aniket Mahanti, Jong-Kyou Kim
-  </li>
-  
-  <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">IEEE Access</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10024928">Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance</a>, Daeho Seo, <b>Yongmin Yoo</b>.
-  </li>
-  
-  <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">ICMLA</span>
-    <a href="https://ieeexplore.ieee.org/abstract/document/9680049">Medical code prediction from discharge summary: Document to sequence bert using sequence attention</a>, Tak-Sung Heo, <b>Yongmin Yoo</b>, Yeongjoon Park, ByeongCheol Jo, Kyounguk Lee, Kyungsun Kim.
-  </li>
+- **Characterizing the Initial and Subsequent NFT Sales Market Dynamics**  
+  Perspectives from boom and slump periods. IEEE Access, 2023.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/10320355">[Link]</a>
 
-  
-  <li>
-    <span style="display: inline-block; background-color: #4285f4; color: white; padding: 3px 8px; border-radius: 4px; margin-right: 5px; font-size: 0.8em;">Symmetry</span>
-    <a href="https://www.mdpi.com/2073-8994/13/8/1442">A novel hybrid methodology of measuring sentence similarity</a>, <b>Yongmin Yoo</b>, Tak-Sung Heo, Yeongjoon Park, Kyungsun Kim
-  </li>
+- **Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance**  
+  Practical applications of real-time personalization in retail. IEEE Access, 2022.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/10024928">[Link]</a>
 
-</ul>
+- **Medical Code Prediction from Discharge Summary**  
+  Document-to-sequence BERT using sequence attention. ICMLA, 2021.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/9680049">[Link]</a>
 
+- **A Novel Hybrid Methodology of Measuring Sentence Similarity**  
+  Combining statistical and semantic features. Symmetry, 2021.  
+  <a href="https://www.mdpi.com/2073-8994/13/8/1442">[Link]</a>
 
-<div style="text-align: center; margin-top: 30px;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
-</div>
 
 <h2>💻Service</h2>
 
@@ -99,4 +86,10 @@ If you're interested in these topics or potential collaborations, feel free to g
 <div style="display: flex; margin-bottom: 1em;">
   <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
   <div>Invited reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
+</div>
+
+
+
+<div style="text-align: center; margin-top: 30px;">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
 </div>
