@@ -7,26 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. Candidate in the School of Computing at Macquarie University, supervised by [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/). I am also a member of the [Data Science Lab](https://datasciences.org). My research focuses on leveraging advanced Natural Language Processing (NLP) techniques and Large Language Models (LLMs) to transform the patent industry. I specialize in patent analysis and automated patent text generation, exploring innovative applications of NLP in this domain.
 
-I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney.
+I am currently pursuing my Ph.D in the School of Computing at Macquarie University under the supervision of Professor [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/), conducting my research in the [Data Science Lab](https://datasciences.org) which is a leading group specializing in applying data science and artificial intelligence to complex domains in Australia.
+
+I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney,Australia.
 
 
 Prior to my Ph.D, I earned a Master’s degree in Industrial Engineering from [Inha University](https://en.wikipedia.org/wiki/Inha_University). I also worked as an NLP researcher at [NHN](https://www.nhn.com/en-US), one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
+
+My research aims to bridge the gap between AI-based text generation and the rigorous reliability standards required in legal, technical, and scientific documents. I focus on leveraging natural language processing (NLP) and large language models (LLMs) to generate, analyze, and evaluate high-stakes documents such as patents, which are structurally complex and legally binding. These characteristics make them particularly challenging for automated processing, and traditional natural language generation (NLG) metrics often fail to capture their structural and legal dimensions. To address this, I am developing a novel evaluation framework that integrates legal terminology, technical language, and document structure. My goal is to improve the domain-specific reliability and trustworthiness of LLM-generated outputs and to enable more accurate and responsible applications of AI in sensitive, high-stakes contexts.
+
+In addition, I am interested in applying patent analysis to management and business. Patents are key intellectual assets that reflect technological competitiveness at both corporate and national levels. By combining patent data with data science methodologies, I aim to uncover actionable insights into innovation trends, industry dynamics, and the economic value of intellectual property. Ultimately, I seek to connect technological innovation with strategic decision-making to generate both academic contributions and real-world impact.
 
 If you're interested in these topics or potential collaborations, feel free to get in touch!
 
 
 🔍Research Interests
 ======
-- **NLP & LLMs in Patents**  
-  Exploring the application of Natural Language Processing (NLP) and Large Language Models (LLMs) in the patent domain, including patent text generation, patent analysis, and innovation evaluation.  
+- **LLMs for High-Stakes Documents**  
+  Reliable generation and evaluation of legal and technical documents (e.g., patents) using large language models.
 
-- **Patent Data & AI**  
-  Investigating LLM-driven patent similarity assessment, innovation quantification, and legal-tech applications to enhance patent intelligence.  
+- **Trustworthy & Domain-Specific NLP**  
+  Building evaluation methods that reflect legal validity, structural rigor, and domain requirements, especially in patents.
 
-- **General LLM Research**  
-  Studying the capabilities, limitations, and optimization techniques of LLMs, including fine-tuning, evaluation methods, and domain-specific adaptations.  
+- **Patent Intelligence & Strategic Analysis**  
+  Leveraging patent data and LLMs to uncover innovation trends, assess IP value, and inform business decisions.
 
 
 
