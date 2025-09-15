@@ -34,15 +34,13 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 <h2>💡News</h2>
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Nov, 2025</div>
-    <div>Getting Acceptance <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main conference, "<i>PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims</i>"</div>
 
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2024</div>
-    <div>I started my Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/?utm_source=google&utm_medium=cpc&utm_campaign=brand-2023&utm_content=Brand_Exact_NA_NA-Macquarie+Uni&utm_term=macquarie+university&gad_source=1&gclid=Cj0KCQjw7dm-BhCoARIsALFk4v-5A9bijTiA8Jzwn66iGdTD6WD0olfJVTuDmUgdxkOE7Qljh6YAvt4aAjF6EALw_wcB&gclsrc=aw.ds">Macquarie University</a>.</div>
-</div>
+- **Nov 2025**  
+  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a>: *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
+
+- **Feb 2024**  
+  Started Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/">Macquarie University</a>
+
 
 
 
@@ -68,25 +66,18 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💻Service</h2>
 
-<div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-  <div>Invited reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
-</div>
+- **Mar 2025**  
+  Invited reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>
 
-<div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Feb, 2025</div>
-  <div>Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
-</div>
+- **Feb 2025**  
+  Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
 
-<div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
-  <div>Invited reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
-</div>
+- **Jan 2025**  
+  Invited reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>
 
-<div style="display: flex; margin-bottom: 1em;">
-  <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
-  <div>Invited reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
-</div>
+- **Sep 2024**  
+  Invited reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>
+
 
 
 
