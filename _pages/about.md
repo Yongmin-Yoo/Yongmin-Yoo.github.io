@@ -82,23 +82,23 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 💻Service
 ======
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.
+
+<div style="display: flex; margin-bottom: 1em;">
+  <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+  <div>Invited reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
 </div>
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
+
+<div style="display: flex; margin-bottom: 1em;">
+  <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
+  <div>Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
 </div>
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
+
+<div style="display: flex; margin-bottom: 1em;">
+  <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
+  <div>Invited reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
 </div>
-<div>
-  <div style="display: flex; margin-bottom: 1em;">
-    <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
+
+<div style="display: flex; margin-bottom: 1em;">
+  <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
+  <div>Invited reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
 </div>
