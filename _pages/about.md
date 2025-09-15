@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/abc9e104-a3c6-49c5-97e8-585c066bf83d" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a6a441ef-76f2-4f4d-b6e6-a7e248f4edfb" />---
+---
 permalink: /
 title: "👨‍🎓About Me"
 author_profile: true
@@ -85,16 +85,19 @@ If you're interested in these topics or potential collaborations, feel free to g
 <div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
-    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.</div>
-
+    <div>I was invited to serve as a Reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>.
+</div>
+<div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Mar, 2025</div>
     <div>I was invited to serve as a Reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>.</div>
-  
+</div>
+<div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Jan, 2025</div>
     <div>I was invited to serve as a Reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>.</div>
-  
+</div>
+<div>
   <div style="display: flex; margin-bottom: 1em;">
     <div style="flex: 0 0 100px; font-weight: bold;">Sep, 2024</div>
     <div>I was invited to serve as a Reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>.</div>
