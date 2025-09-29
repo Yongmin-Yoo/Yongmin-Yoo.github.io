@@ -136,6 +136,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
+og_title: "Yongmin Yoo | NLP Researcher"
+og_description: "Ph.D. Candidate in NLP at Macquarie University"
 og_image                 : "/images/yongmin.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
