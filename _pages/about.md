@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am currently pursuing my Ph.D in the School of Computing at Macquarie University under the supervision of Professor [Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao) and [Qiongkai Xu](https://xuqiongkai.github.io/), conducting my research in the [Data Science Lab](https://datasciences.org) which is a leading group specializing in applying data science and artificial intelligence to complex domains in Australia.
+I am currently pursuing my Ph.D in the School of Computing at Macquarie University under the supervision of Professor.[Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao), Professor.[Niloufer Selvadurai](https://researchers.mq.edu.au/en/persons/niloufer-selvadurai) and Dr.[Qiongkai Xu](https://xuqiongkai.github.io/), conducting my research in the [Frontier AI Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/frontier-ai-research) which is a leading group specializing in applying data science and artificial intelligence to complex domains in Australia.
 
 I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney,Australia.
 
