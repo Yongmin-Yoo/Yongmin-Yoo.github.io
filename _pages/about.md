@@ -47,7 +47,7 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>📚Publications</h2>
 
-- **PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**, EMNLP2025 Main Conference  <a href="https://arxiv.org/abs/2505.19345">[Link]</a> 
+- **PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**, EMNLP2025 Main Conference  <a href="https://aclanthology.org/2025.emnlp-main.1564">[Link]</a> 
 - **Characterizing the Initial and Subsequent NFT Sales Market Dynamics Perspectives From Boom and Slump Periods** ,IEEE Access, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10320355">[Link]</a>
 - **Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance** IEEE Access, 2022 <a href="https://ieeexplore.ieee.org/abstract/document/10024928">[Link]</a>
 - **Medical Code Prediction from Discharge Summary** ICMLA, 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9680049">[Link]</a>
