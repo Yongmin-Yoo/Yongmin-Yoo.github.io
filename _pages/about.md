@@ -56,10 +56,10 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💻Service</h2>
 
-- **Sep 2026**  
+- **Feb 2026**  
   PC Member in <a href="http://www.icecet.com/">ICECET 2026</a>
 
-- **Sep 2026**  
+- **Jan 2026**  
   PC Member in <a href="https://www.pakdd2026.org/">PAKDD 2026</a>
 
 - **Sep 2025**  
