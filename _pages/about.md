@@ -56,8 +56,17 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💻Service</h2>
 
+- **Sep 2026**  
+  PC Member in <a href="http://www.icecet.com/">ICECET 2026</a>
+
+- **Sep 2026**  
+  PC Member in <a href="https://www.pakdd2026.org/">PAKDD 2026</a>
+
+- **Sep 2025**  
+  PC Member in <a href="https://iconip2025.apnns.org/">ICONIP 2025</a>
+
 - **Mar 2025**  
-  Invited reviewer for <a href="https://2025.ijcai.org/">IJCAI 2025</a>
+  PC Member in <a href="https://2025.ijcai.org/">IJCAI 2025</a>
 
 - **Feb 2025**  
   Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
@@ -66,7 +75,7 @@ If you're interested in these topics or potential collaborations, feel free to g
   Invited reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>
 
 - **Sep 2024**  
-  Invited reviewer for <a href="https://iconip2024.org/">ICONIP 2024</a>
+  PC Member in <a href="https://iconip2024.org/">ICONIP 2024</a>
 
 
 
