@@ -57,6 +57,9 @@ If you're interested in these topics or potential collaborations, feel free to g
 <h2>💻Service</h2>
 
 - **Feb 2026**  
+  Invited reviewer for <a href="https://link.springer.com/journal/10994">Machine Learning(MLJ)</a>
+
+- **Feb 2026**  
   PC Member in <a href="http://www.icecet.com/">ICECET 2026</a>
 
 - **Jan 2026**  
