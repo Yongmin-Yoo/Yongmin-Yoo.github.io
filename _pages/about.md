@@ -35,8 +35,14 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💡News</h2>
 
+- **Apr 2026**  
+  Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> *PatentMind: A multi-aspect reasoning graph for patent similarity evaluation*
+
+- **Apr 2026**  
+  Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> *FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions*
+
 - **Nov 2025**  
-  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> Main Conference: *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
+  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
 
 - **Feb 2024**  
   Started Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/">Macquarie University</a>
@@ -45,41 +51,33 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 
 
-<h2>📚Publications</h2>
+<h2>📚 Publications</h2>
 
-- **PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims**, EMNLP2025 Main Conference  <a href="https://aclanthology.org/2025.emnlp-main.1564">[Link]</a> 
-- **Characterizing the Initial and Subsequent NFT Sales Market Dynamics Perspectives From Boom and Slump Periods** ,IEEE Access, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10320355">[Link]</a>
-- **Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance** IEEE Access, 2022 <a href="https://ieeexplore.ieee.org/abstract/document/10024928">[Link]</a>
-- **Medical Code Prediction from Discharge Summary** ICMLA, 2021 <a href="https://ieeexplore.ieee.org/abstract/document/9680049">[Link]</a>
-- **A Novel Hybrid Methodology of Measuring Sentence Similarity** Symmetry, 2021 <a href="https://www.mdpi.com/2073-8994/13/8/1442">[Link]</a>
-
+- **[ACL 2026 Findings]** FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions <a href="https://arxiv.org/abs/2601.02589">[Link]</a>
+- **[ACL 2026 Findings]** PatentMind: A Multi-aspect Reasoning Graph for Patent Similarity Evaluation <a href="https://arxiv.org/abs/2505.19347">[Link]</a>
+- **[EMNLP 2025]** PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims <a href="https://aclanthology.org/2025.emnlp-main.1564">[Link]</a>
+- **[IEEE Access 2023]** Characterizing the Initial and Subsequent NFT Sales Market Dynamics <a href="https://ieeexplore.ieee.org/abstract/document/10320355">[Link]</a>
+- **[IEEE Access 2022]** Improving Shopping Mall Revenue by Real-Time Customized Digital Coupon Issuance <a href="https://ieeexplore.ieee.org/abstract/document/10024928">[Link]</a>
+- **[ICMLA 2021]** Medical Code Prediction from Discharge Summary <a href="https://ieeexplore.ieee.org/abstract/document/9680049">[Link]</a>
+- **[Symmetry 2021]** A Novel Hybrid Methodology of Measuring Sentence Similarity <a href="https://www.mdpi.com/2073-8994/13/8/1442">[Link]</a>
 
 <h2>💻Service</h2>
 
-- **Feb 2026**  
-  Invited reviewer for <a href="https://link.springer.com/journal/10994">Machine Learning(MLJ)</a>
+**Conference Organizing & Leadership**
+- **Nov 2026** | **Special Session Chair**, <a href="https://besc-conf.org/2026/">BESC 2026</a> ("Integrated Smart Systems and Data-Driven AI")
 
-- **Feb 2026**  
-  PC Member in <a href="http://www.icecet.com/">ICECET 2026</a>
+**Program Committee (PC) Member**
+- **Jan 2026** | <a href="https://www.pakdd2026.org/">PAKDD 2026</a>
+- **Feb 2026** | <a href="http://www.icecet.com/">ICECET 2026</a>
+- **Sep 2025** | <a href="https://iconip2025.apnns.org/">ICONIP 2025</a>
+- **Mar 2025** | <a href="https://2025.ijcai.org/">IJCAI 2025</a>
+- **Sep 2024** | <a href="https://iconip2024.org/">ICONIP 2024</a>
 
-- **Jan 2026**  
-  PC Member in <a href="https://www.pakdd2026.org/">PAKDD 2026</a>
-
-- **Sep 2025**  
-  PC Member in <a href="https://iconip2025.apnns.org/">ICONIP 2025</a>
-
-- **Mar 2025**  
-  PC Member in <a href="https://2025.ijcai.org/">IJCAI 2025</a>
-
-- **Feb 2025**  
-  Invited reviewer for <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
-
-- **Jan 2025**  
-  Invited reviewer for <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>
-
-- **Sep 2024**  
-  PC Member in <a href="https://iconip2024.org/">ICONIP 2024</a>
-
+**Journal Reviewer**
+- **Apr 2026** | <a href="https://link.springer.com/journal/11192">Scientometrics</a>
+- **Feb 2026** | <a href="https://link.springer.com/journal/10994">Machine Learning (MLJ)</a>
+- **Feb 2025** | <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
+- **Jan 2025** | <a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a>
 
 
 
