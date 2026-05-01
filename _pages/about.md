@@ -67,55 +67,13 @@ If you're interested in these topics or potential collaborations, feel free to g
 <br>
 
 ### Program Committee (PC) Member
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Apr 2026</strong></td>
-    <td style="border: none;"><a href="https://www.pakdd2026.org/">IJCAI 2026</a></td>
-  </tr>  
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Jan 2026</strong></td>
-    <td style="border: none;"><a href="https://www.pakdd2026.org/">PAKDD 2026</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Feb 2026</strong></td>
-    <td style="border: none;"><a href="http://www.icecet.com/">ICECET 2026</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Sep 2025</strong></td>
-    <td style="border: none;"><a href="https://iconip2025.apnns.org/">ICONIP 2025</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Mar 2025</strong></td>
-    <td style="border: none;"><a href="https://2025.ijcai.org/">IJCAI 2025</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Sep 2024</strong></td>
-    <td style="border: none;"><a href="https://iconip2024.org/">ICONIP 2024</a></td>
-  </tr>
-</table>
 
+- **2026**: <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://2026.ijcai.org/">IJCAI</a>, <a href="https://www.pakdd2026.org/">PAKDD</a>, <a href="http://www.icecet.com/">ICECET</a>
+- **2025**: <a href="https://2025.ijcai.org/">IJCAI</a>, <a href="https://iconip2025.apnns.org/">ICONIP</a>
+- **2024**: <a href="https://iconip2024.org/">ICONIP</a>
 <br>
 
 ### Journal Reviewer
-<table style="width:100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Apr 2026</strong></td>
-    <td style="border: none;"><a href="https://link.springer.com/journal/11192">Scientometrics</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Feb 2026</strong></td>
-    <td style="border: none;"><a href="https://link.springer.com/journal/10994">Machine Learning (MLJ)</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Feb 2025</strong></td>
-    <td style="border: none;"><a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a></td>
-  </tr>
-  <tr style="border: none;">
-    <td style="width:20%; vertical-align: top; border: none;"><strong>Jan 2025</strong></td>
-    <td style="border: none;"><a href="https://wisdomgale.com/jcsi/">Journal Of Computer Sciences And Informatics</a></td>
-  </tr>
-</table>
 
-<div style="text-align: center; margin-top: 30px;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=a2pswPwPySnEh73HqFe_dc-_ofCFxXwOmR_6BprbB6M&cl=ffffff&w=a"></script>
-</div>
+- **2026**: <a href="https://link.springer.com/journal/11192">Scientometrics</a>, <a href="https://link.springer.com/journal/10994">Machine Learning (MLJ)</a>
+- **2025**: <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
