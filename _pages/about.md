@@ -75,4 +75,3 @@ If you're interested in these topics or potential collaborations, feel free to g
 ### Journal Reviewer
 
 - **2026**: <a href="https://link.springer.com/journal/11192">Scientometrics</a>, <a href="https://link.springer.com/journal/10994">Machine Learning (MLJ)</a>
-- **2025**: <a href="https://journalajrcos.com/index.php/AJRCOS">Asian Journal of Research in Computer Science</a>
