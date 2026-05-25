@@ -35,12 +35,11 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💡News</h2>
 
+  - **May 2026** Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> *ERA: Aligning semantic models with revealed economic preference for real-time and explainable patent valuation*
+  
 - **Apr 2026**  
   Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> *PatentMind: A multi-aspect reasoning graph for patent similarity evaluation*
-
-- **Apr 2026**  
-  Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> *FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions*
-
+  
 - **Nov 2025**  
   Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
 
