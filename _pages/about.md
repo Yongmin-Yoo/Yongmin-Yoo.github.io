@@ -87,3 +87,14 @@ If you're interested in these topics or potential collaborations, feel free to g
 ### Journal Reviewer
 
 - **2026**: <a href="https://link.springer.com/journal/11192">Scientometrics</a>, <a href="https://link.springer.com/journal/10994">Machine Learning (MLJ)</a>
+
+
+<h2>🌏 Visitors</h2>
+
+<div style="max-width: 500px; margin: 20px auto; text-align: center;">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=YOUR_UNIQUE_KEY&cl=ffffff&w=a">
+  </script>
+</div>
