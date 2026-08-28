@@ -35,13 +35,25 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 <h2>💡News</h2>
 
-  - **May 2026** Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> *ERA: Aligning semantic models with revealed economic preference for real-time and explainable patent valuation*
+- **Aug 2026**  
+  Paper accepted at <a href="https://2026.emnlp.org/">EMNLP 2026</a> 🥳🥳🥳
+  
+  *Adaptive cost-efficient evaluation for reliable patent claim validation*
+  
+- **May 2026**  
+  Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> (SSCI & SCIE Q1; ranked #3/149 in Information Systems and #4/72 in Information Science & Library Science) 🎉🎉 🎉
+
+   *ERA: Aligning semantic models with revealed economic preference for real-time and explainable patent valuation*
   
 - **Apr 2026**  
-  Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> *PatentMind: A multi-aspect reasoning graph for patent similarity evaluation*
+  Paper accepted at <a href="https://2026.aclweb.org/">ACL 2026</a> 🎊🎊🎊
+
+   *PatentMind: A multi-aspect reasoning graph for patent similarity evaluation*
   
 - **Nov 2025**  
-  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
+  Paper accepted at <a href="https://2025.emnlp.org/">EMNLP 2025</a> 🥳🥳🥳
+
+  *PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims*
 
 - **Feb 2024**  
   Started Ph.D. program in the School of Computing at <a href="https://www.mq.edu.au/">Macquarie University</a>
@@ -67,8 +79,8 @@ If you're interested in these topics or potential collaborations, feel free to g
 
 ### Program Committee (PC) Member
 
-- **2026**: <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://aaai.org/conference/aaai/aaai-27/">AAAI</a>, <a href="https://2026.ijcai.org/">IJCAI</a>, <a href="https://www.pakdd2026.org/">PAKDD</a>, <a href="https://cikm2026.diag.uniroma1.it/">CIKM</a>
-- **2025**: <a href="https://2025.ijcai.org/">IJCAI</a>, ICONIP</a>
+- **2026**: <a href="https://neurips.cc/">NeurIPS</a>, <a href="https://aaai.org/conference/aaai/aaai-27/">AAAI</a>, <a href="https://2026.ijcai.org/">IJCAI</a>, <a href="https://www.pakdd2026.org/">PAKDD</a>, <a href="https://cikm2026.diag.uniroma1.it/">CIKM</a>, <a href="https://www.acml-conf.org/2026/">ACML</a>
+- **2025**: <a href="https://2025.ijcai.org/">IJCAI</a>, <a href="https://iconip2025.apnns.org/">ICONIP</a>
 - **2024**: <a href="https://iconip2024.org/">ICONIP</a>
 <br>
 
