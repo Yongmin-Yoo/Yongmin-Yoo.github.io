@@ -41,7 +41,7 @@ If you're interested in these topics or potential collaborations, feel free to g
   *Adaptive cost-efficient evaluation for reliable patent claim validation*
   
 - **May 2026**  
-  Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> (SSCI & SCIE Q1; ranked #3/149 in Information Systems and #4/72 in Information Science & Library Science) 🎉🎉 🎉
+  Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> (SSCI/SCIE Q1; #3 in Information Systems and #4 in Information Science)  🎉🎉 🎉
 
    *ERA: Aligning semantic models with revealed economic preference for real-time and explainable patent valuation*
   
