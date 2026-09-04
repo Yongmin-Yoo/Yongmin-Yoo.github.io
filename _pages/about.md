@@ -8,16 +8,9 @@ redirect_from:
 ---
 
 
-I am currently pursuing my Ph.D in the School of Computing at Macquarie University under the supervision of Professor.[Longbing Cao](https://en.wikipedia.org/wiki/Longbing_Cao), Professor.[Niloufer Selvadurai](https://researchers.mq.edu.au/en/persons/niloufer-selvadurai) and Dr.[Qiongkai Xu](https://xuqiongkai.github.io/), conducting my research in the [Frontier AI Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/frontier-ai-research) which is a leading group specializing in applying data science and artificial intelligence to complex domains in Australia.
+**Yongmin Yoo (유용민)** is an AI researcher and PhD candidate at [Macquarie University](https://www.mq.edu.au/), affiliated with the [Frontier AI Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/frontier-ai-research). His research focuses on trustworthy large language models for high-stakes legal and technical domains, with particular emphasis on patent generation, evaluation, similarity analysis, and valuation.
 
-I am grateful to be a recipient of the [iMQRES](https://www.mq.edu.au/research/phd-and-research-degrees/how-to-apply/scholarship-opportunities)(Macquarie University Research Training Program) and [iRTP](https://www.education.gov.au/research-block-grants/research-training-program)(International Research Training Program) scholarships, which fully cover my Ph.D. tuition fees and provide generous living support in Sydney,Australia.
-
-
-Prior to my Ph.D, I earned a Master’s degree in Industrial Engineering from [Inha University](https://en.wikipedia.org/wiki/Inha_University). I also worked as an NLP researcher at [NHN](https://www.nhn.com/en-US), one of South Korea's largest IT companies, where I gained three years of industry experience in Natural Language Processing.
-
-I work on trustworthy text generation and evaluation using large language models (LLMs), especially in high-stakes domains like patents. I’m also interested in applying patent analysis to business and innovation strategy.
-
-If you're interested in these topics or potential collaborations, feel free to get in touch!
+Before pursuing his PhD, he worked as an NLP researcher at [NHN](https://www.nhn.com/en-US) for three years. He holds a master’s degree in Industrial Engineering from [Inha University](https://www.inha.ac.kr/eng/) and is a recipient of the iRTP and iMQRES scholarships.
 
 
 <h2>🔍 Research Interests</h2>
