@@ -214,7 +214,7 @@ author_profile: true
 
     <div class="publication-venue">
       <em>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</em>,
-      pp. 30715–30734.
+      pp. 30715.
     </div>
   </li>
 
