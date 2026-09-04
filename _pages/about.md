@@ -36,7 +36,7 @@ He is one of the few interdisciplinary AI researchers with formal degrees in bot
   *Adaptive cost-efficient evaluation for reliable patent claim validation*
   
 - **May 2026**  
-  Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> (SSCI/SCIE Q1; #3 in Information Systems and #4 in Information Science)🎉🎉
+  Paper accepted at <a href="https://www.sciencedirect.com/science/article/pii/S030645732600289X/">Information Processing & Management 2026</a> (SSCI/SCIE Q1; #3 in Information Systems)🎉🎉
 
    *ERA: Aligning semantic models with revealed economic preference for real-time and explainable patent valuation*
   
