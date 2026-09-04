@@ -127,33 +127,4 @@ Journal Articles
 </ul>
 
 
-Preprints and Manuscripts
-======
-
-<ul class="publication-list">
-
-  <li>
-    <span class="publication-badge preprint-badge">Under Review</span>
-    <strong>Structure-Anchored Representation Intervention: Plug-and-Play Hierarchical Consistency for Frozen Decoders</strong><br>
-    <strong>Yongmin Yoo</strong>, Seung-Won Seo, Won Ik Cho, Zhangkai Wu, and Longbing Cao.
-  </li>
-
-  <li>
-    <span class="publication-badge preprint-badge">Preprint 2026</span>
-    <a href="https://arxiv.org/abs/2607.24040" target="_blank" rel="noopener noreferrer">
-      Pointer-Augmented Autoregressive Generation of Patent Claims with Joint Topology and Content Decoding
-    </a><br>
-    <strong>Yongmin Yoo</strong>, Zhangkai Wu, and Longbing Cao.
-  </li>
-
-  <li>
-    <span class="publication-badge preprint-badge">Preprint 2026</span>
-    <a href="https://arxiv.org/abs/2601.02589" target="_blank" rel="noopener noreferrer">
-      FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions
-    </a><br>
-    Kris W. Pan<sup>†</sup> and <strong>Yongmin Yoo</strong><sup>†</sup>.
-  </li>
-
-</ul>
-
 <p><sup>†</sup> Equal contribution.</p>
