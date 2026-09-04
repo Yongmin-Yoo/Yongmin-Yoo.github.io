@@ -8,23 +8,25 @@ redirect_from:
 ---
 
 
-**Yongmin Yoo (유용민)** is an AI researcher and PhD candidate at [Macquarie University](https://www.mq.edu.au/), affiliated with the [Frontier AI Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/frontier-ai-research). His research focuses on trustworthy large language models for high-stakes legal and technical domains, with particular emphasis on patent generation, evaluation, similarity analysis, and valuation.
+**Yongmin Yoo (유용민)** is an AI researcher and PhD candidate at [Macquarie University](https://www.mq.edu.au/), affiliated with the [Frontier AI Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/frontier-ai-research). His research spans mechanistic interpretability and trustworthy LLMs, structured document intelligence, and AI-driven patent intelligence. By combining his academic background in law and industrial engineering with research and industry experience in NLP, he develops reliable and interpretable language technologies for high-stakes legal and technical domains.
 
-Before pursuing his PhD, he worked as an NLP researcher at [NHN](https://www.nhn.com/en-US) for three years. He holds a master’s degree in Industrial Engineering from [Inha University](https://www.inha.ac.kr/eng/) and is a recipient of the iRTP and iMQRES scholarships.
+
+Before pursuing his PhD, he worked as an NLP researcher at [NHN](https://www.nhn.com/en-US) for three years. He holds a master’s degree in Industrial Engineering from [Inha University](https://www.inha.ac.kr/eng/) and bachelor’s degrees in Law and Industrial Engineering from [Kyungsung University](https://kscms.ks.ac.kr/eng/Main.do), providing a distinctive interdisciplinary foundation for his research at the intersection of AI, technology, and law.
+
+He is one of the few interdisciplinary AI researchers with formal degrees in both law and industrial engineering, complemented by doctoral training in computing and professional experience in NLP research and development. His distinctive strength lies in his ability to understand legal principles and institutional requirements while critically examining the inner workings and technical limitations of modern language models. Drawing on this rare combination of expertise, he bridges law and NLP to develop trustworthy and interpretable AI for high-stakes legal and technical domains.
+
 
 
 <h2>🔍 Research Interests</h2>
 
-- **LLMs for High-Stakes Documents**  
-  Reliable generation and evaluation of legal and technical documents (e.g., patents) using large language models.
+1. **Mechanistic Interpretability and Trustworthy LLMs**  
+   Understanding how language models internally represent and process information to improve their robustness, reliability, and transparency in high-stakes domains.
 
-- **Trustworthy & Domain-Specific NLP**  
-  Building evaluation methods that reflect legal validity, structural rigor, and domain requirements, especially in patents.
+2. **Structured Document Intelligence**  
+   Developing reliable methods for generating, representing, and evaluating complex legal and technical documents with hierarchical structures.
 
-- **Patent Intelligence & Strategic Analysis**  
-  Leveraging patent data and LLMs to uncover innovation trends, assess IP value, and inform business decisions.
-
-
+3. **AI for Patent Intelligence and Decision Support**  
+   Applying language models and machine learning to patent analysis, evaluation, similarity assessment, valuation, and innovation strategy.
 
 <h2>💡News</h2>
 
