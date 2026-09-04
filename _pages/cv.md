@@ -124,6 +124,8 @@ Academic Service
 ### Program Committee and Reviewing
 
 * NeurIPS 2026
+* AAAI 2026
+* CIKM 2026
 * IJCAI-ECAI 2026
 * PAKDD 2026
 * IJCAI 2025
