@@ -89,7 +89,7 @@ He is one of the few interdisciplinary AI researchers with formal degrees in bot
 <div style="max-width: 500px; margin: 20px auto; text-align: center;">
   <script
     type="text/javascript"
-    id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d=YOUR_UNIQUE_KEY&cl=ffffff&w=a">
+    id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=TbXhvRAZVtF0gGk7AAx3fz6RLgsoHOrI1QVbE21DdsU&cl=ffffff&w=a">
   </script>
 </div>
