@@ -1,46 +1,42 @@
 ---
+layout: archive
 title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
 
-# 🧠 Research Interests
-
-My research centers on the intersection of **large language models (LLMs)**, **trustworthy NLP**, and **patent analytics**, with a focus on developing methodologies that are both technically rigorous and practically valuable in high-stakes domains.
+My research lies at the intersection of **mechanistic interpretability**, **trustworthy language models**, and **structured document intelligence**, with a particular focus on Legal AI and patent intelligence. I study how language models reason, represent complex information, and make decisions in high-stakes settings where reliability, transparency, and domain validity are essential.
 
 ---
 
-## 1. Trustworthy Text Generation in High-Stakes Domains
+## 1. Mechanistic Interpretability and Trustworthy LLMs
 
-In critical fields such as **intellectual property**, **biomedical informatics**, and **legal tech**, the reliability of AI-generated content is paramount. I focus on:
+I investigate how language models internally represent information and produce decisions, particularly when their outputs are sensitive to irrelevant context, role framing, or subtle variations in input. My research combines behavioral evaluation with mechanistic analysis to identify the internal components and representations associated with model reasoning and failure.
 
-- Designing **structure-aware** and **legally-consistent** evaluation metrics for patent claims.
-- Exploring **robustness**, **hallucination avoidance**, and **domain fidelity** in LLM-based generation pipelines.
-- Benchmarking LLMs against expert-written claims to quantify generation quality in **functional, structural, and legal** dimensions.
+The broader goal is to develop language models that are not only accurate, but also **robust, interpretable, and appropriately calibrated** for high-stakes decision-making.
 
-📌 *Key contribution*: Development of multi-dimensional evaluation frameworks (e.g., PatentScore) for patent claim assessment.
+**Key interests:** mechanistic interpretability, representation analysis and intervention, robustness, uncertainty, causal analysis, and reliable reasoning.
 
 ---
 
-## 2. Domain-Specific Evaluation of LLMs
+## 2. Structured Document Intelligence
 
-Generic NLG metrics often fail to capture the nuances required in specialized fields. My work involves:
+Legal and technical documents often contain complex hierarchical structures, dependencies, and domain-specific constraints that conventional language models do not explicitly capture. I develop methods for generating, representing, and evaluating such documents while preserving their structural and semantic coherence.
 
-- Creating **domain-specific evaluation frameworks** that go beyond surface-level similarity.
-- Incorporating **legal validity, antecedent clarity, structural soundness**, and **domain coverage** into automated scoring pipelines.
-- Leveraging expert annotations and weak/strong supervision techniques for fine-grained regression models.
+This research explores structure-aware generation, hierarchical document representation, constrained decoding, and domain-grounded evaluation. The objective is to move beyond surface-level text quality toward models that respect the **logical organization, functional relationships, and formal requirements** of specialized documents.
 
----
-
-## 3. Patent Intelligence and Strategic Innovation Analysis
-
-Patents are rich, underutilized sources of technological and strategic insights. I apply NLP and data science techniques to:
-
-- Extract **innovation trajectories**, **emerging technologies**, and **market-entry signals** from patent corpora.
-- Model **patent value** using LLMs through **pairwise preference**, **semantic similarity**, and **legal structure embeddings**.
-- Link patent information to **business decisions**, **M&A strategies**, and **startup innovation positioning**.
-
+**Key interests:** structured generation, hierarchical representation learning, controllable decoding, document evaluation, and representation intervention.
 
 ---
 
-If you are working in related areas or are interested in collaboration, feel free to [contact me](/yooyongmin91@gmail.com).
+## 3. AI for Patent Intelligence and Decision Support
+
+Patents provide a challenging environment for AI because they combine technical knowledge, legal reasoning, economic value, and highly structured language. I develop AI methods for patent generation, evaluation, similarity assessment, classification, and valuation.
+
+My research aims to transform complex patent information into transparent and actionable evidence for tasks such as prior-art analysis, claim assessment, technology evaluation, and intellectual-property decision-making. A central priority is ensuring that AI-based patent analysis remains **interpretable, legally grounded, and aligned with expert judgment**.
+
+**Key interests:** patent generation and evaluation, patent similarity, legal validity assessment, explainable valuation, and IP decision support.
+
+---
+
+I welcome research collaborations at the intersection of trustworthy AI, mechanistic interpretability, Legal AI, and patent intelligence. Please feel free to [contact me](mailto:yooyongmin91@gmail.com).
