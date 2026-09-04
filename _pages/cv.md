@@ -21,7 +21,7 @@ Education
   * Thesis: *Automatic Creation of Categories Using Doc2Vec and Document Clustering Techniques*
   * Winner, 13th Intellectual Property Excellent Thesis Competition, Korean Intellectual Property Office
 
-* **LL.B. in Law and B.E. in Industrial Management Engineering**, [Kyungsung University](https://kscms.ks.ac.kr/eng/Main.do), Republic of Korea, 2015
+* **LL.B. in Law and B.E. in Industrial Management Engineering**, [Kyungsung University](https://kscms.ks.ac.kr/eng/Main.do), Republic of Korea, 2016
 
 
 Research and Professional Experience
