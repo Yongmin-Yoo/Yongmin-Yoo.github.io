@@ -144,7 +144,7 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      <em>Information Processing &amp; Management</em>, 63(7), 104898.
+      <em>Information Processing &amp; Management</em>.
     </div>
   </li>
 
@@ -213,8 +213,7 @@ author_profile: true
     </div>
 
     <div class="publication-venue">
-      <em>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</em>,
-      pp. 30715.
+      <em>Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing</em>.
     </div>
   </li>
 
