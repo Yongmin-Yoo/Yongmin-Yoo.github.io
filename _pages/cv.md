@@ -78,22 +78,6 @@ Peer-Reviewed Publications
   *Proceedings of the 2021 IEEE International Conference on Machine Learning and Applications (ICMLA 2021)*, pp. 1239–1244.
 
 
-Preprints and Manuscripts
-======
-
-* **Yongmin Yoo**, Seung-Won Seo, Won Ik Cho, Zhangkai Wu, and Longbing Cao.  
-  *Structure-Anchored Representation Intervention: Plug-and-Play Hierarchical Consistency for Frozen Decoders.*  
-  Manuscript under review.
-
-* **Yongmin Yoo**, Zhangkai Wu, and Longbing Cao.  
-  “[Pointer-Augmented Autoregressive Generation of Patent Claims with Joint Topology and Content Decoding](https://arxiv.org/abs/2607.24040).”  
-  Preprint, 2026.
-
-* Kris W. Pan and **Yongmin Yoo**.  
-  “[FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions](https://arxiv.org/abs/2601.02589).”  
-  Preprint, 2026. Equal contribution.
-
-
 Fellowships and Awards
 ======
 
