@@ -25,11 +25,11 @@ author:
   avatar           : "../images/yongmin.jpg"
   name             : "Yongmin Yoo"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D Candidate in Macquarie University"
+  bio              : "AI Researcher specializing in Trustworthy LLMs, Legal AI, and Patent Intelligence"
   location         : "Sydney, Australia"
   employer         : "Macquarie University"
   employer_url     : "https://researchers.mq.edu.au/en/persons/yongmin-yoo/"
-  uri              : "https://yongmin-yoo.github.io/"
+#  uri              : "https://yongmin-yoo.github.io/"
   email            : "yooyongmin91@gmail.com" 
 
   # Academic websites
