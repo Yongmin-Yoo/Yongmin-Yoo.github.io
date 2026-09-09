@@ -128,6 +128,48 @@ author_profile: true
 
 <ul class="publication-list">
 
+ <li class="featured-publication">
+    <span class="publication-badge top-venue-badge">★ EMNLP Findings 2026</span>
+    <span class="publication-year">Conference Paper</span><br>
+
+    <a class="publication-title"
+       href="https://arxiv.org/abs/2604.04295"
+       target="_blank"
+       rel="noopener noreferrer">
+      Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Validation
+    </a>
+
+    <div class="publication-authors">
+      <strong>Yongmin Yoo</strong>, Qiongkai Xu, and Longbing Cao.
+    </div>
+
+    <div class="publication-venue">
+      <em>Findings of the Association for Computational Linguistics: EMNLP 2026</em>.
+    </div>
+  </li>
+
+  <li>
+    <span class="publication-badge conference-badge">AACL-IJCNLP 2026</span>
+    <span class="publication-year">Main Conference Paper</span><br>
+
+    <a class="publication-title"
+       href="https://arxiv.org/abs/2608.16269"
+       target="_blank"
+       rel="noopener noreferrer">
+      Domain-Agnostic Neural Topic Modeling with Contextual Token-Level Semantic Graph Representation
+    </a>
+
+    <div class="publication-authors">
+      Seung-Won Seo, Won Ik Cho, and
+      <strong>Yongmin Yoo</strong> (corresponding author).
+    </div>
+
+    <div class="publication-venue">
+      <em>Proceedings of AACL-IJCNLP 2026 (Main Conference)</em>.
+    </div>
+  </li>
+
+
   <li class="featured-publication">
     <span class="publication-badge top-venue-badge">★ IP&amp;M 2026</span>
     <span class="publication-year">Journal Article</span><br>
@@ -149,25 +191,6 @@ author_profile: true
   </li>
 
 
-  <li class="featured-publication">
-    <span class="publication-badge top-venue-badge">★ EMNLP Findings 2026</span>
-    <span class="publication-year">Conference Paper</span><br>
-
-    <a class="publication-title"
-       href="https://arxiv.org/abs/2604.04295"
-       target="_blank"
-       rel="noopener noreferrer">
-      Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Validation
-    </a>
-
-    <div class="publication-authors">
-      <strong>Yongmin Yoo</strong>, Qiongkai Xu, and Longbing Cao.
-    </div>
-
-    <div class="publication-venue">
-      <em>Findings of the Association for Computational Linguistics: EMNLP 2026</em>.
-    </div>
-  </li>
 
 
   <li class="featured-publication">
