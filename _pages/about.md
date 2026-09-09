@@ -651,7 +651,7 @@ redirect_from:
         <a class="news-venue"
            href="https://www.sciencedirect.com/science/article/pii/S030645732600289X"
            target="_blank"
-           rel="noopener noreferrer">Information Processing &amp; Management 2026</a>
+           rel="noopener noreferrer">Information Processing &amp; Management</a>
         <span>(SSCI/SCIE Q1; #3 in Information Systems)</span>
         🎉🎉
       </div>
