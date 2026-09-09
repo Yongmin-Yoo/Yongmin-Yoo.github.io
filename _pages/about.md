@@ -565,187 +565,202 @@ redirect_from:
 
   </div>
 
+<!-- =======================================================
+     News
+     ======================================================= -->
 
-  <!-- =======================================================
-       News
-       ======================================================= -->
+<h2 class="section-title">💡 News</h2>
 
-  <h2 class="section-title">💡 News</h2>
+<div class="news-list">
 
-  <div class="news-list">
+  <article class="news-item">
+    <div class="news-date">Sep 2026</div>
 
-    <article class="news-item">
-      <div class="news-date">Sep 2026</div>
-
-      <div class="news-content">
-        <div class="news-summary">
-          Paper accepted at
-          <a class="news-venue"
-             href="https://2026.aaclnet.org/"
-             target="_blank"
-             rel="noopener noreferrer">AACL-IJCNLP 2026</a>
-          🎉🎉
-        </div>
-
-        <div class="author-role">
-          Corresponding Author
-        </div>
-
-        <div class="news-paper-title">
-          <em>
-            Domain-Agnostic Neural Topic Modeling with Contextual Token-Level
-            Semantic Graph Representation
-          </em>
-        </div>
-
-        <a class="paper-button"
-           href="https://arxiv.org/abs/2608.16269"
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted at
+        <a class="news-venue"
+           href="https://2026.aaclnet.org/"
            target="_blank"
-           rel="noopener noreferrer">
-          View paper
-          <span class="external-arrow" aria-hidden="true">↗</span>
-        </a>
+           rel="noopener noreferrer">AACL-IJCNLP 2026</a>
+        🎉🎉
       </div>
-    </article>
+
+      <div class="author-role">
+        Corresponding Author
+      </div>
+
+      <div class="news-paper-title">
+        <em>
+          Domain-Agnostic Neural Topic Modeling with Contextual Token-Level
+          Semantic Graph Representation
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://arxiv.org/abs/2608.16269"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
 
 
-    <article class="news-item">
-      <div class="news-date">Aug 2026</div>
+  <article class="news-item">
+    <div class="news-date">Aug 2026</div>
 
-      <div class="news-content">
-        <div class="news-summary">
-          Paper accepted at
-          <a class="news-venue"
-             href="https://2026.emnlp.org/"
-             target="_blank"
-             rel="noopener noreferrer">EMNLP 2026</a>
-          🎉🎉
-        </div>
-
-        <div class="news-paper-title">
-          <em>
-            Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Validation
-          </em>
-        </div>
-
-        <a class="paper-button"
-           href="https://arxiv.org/abs/2604.04295"
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted at
+        <a class="news-venue"
+           href="https://2026.emnlp.org/"
            target="_blank"
-           rel="noopener noreferrer">
-          View paper
-          <span class="external-arrow" aria-hidden="true">↗</span>
-        </a>
+           rel="noopener noreferrer">EMNLP 2026</a>
+        🎉🎉
       </div>
-    </article>
+
+      <div class="author-role">
+        First Author
+      </div>
+
+      <div class="news-paper-title">
+        <em>
+          Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Validation
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://arxiv.org/abs/2604.04295"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
 
 
-    <article class="news-item">
-      <div class="news-date">May 2026</div>
+  <article class="news-item">
+    <div class="news-date">May 2026</div>
 
-      <div class="news-content">
-        <div class="news-summary">
-          Paper accepted at
-          <a class="news-venue"
-             href="https://www.sciencedirect.com/science/article/pii/S030645732600289X"
-             target="_blank"
-             rel="noopener noreferrer">Information Processing &amp; Management 2026</a>
-          <span>(SSCI/SCIE Q1; #3 in Information Systems)</span>
-          🎉🎉
-        </div>
-
-        <div class="news-paper-title">
-          <em>
-            ERA: Aligning Semantic Models with Revealed Economic Preference
-            for Real-Time and Explainable Patent Valuation
-          </em>
-        </div>
-
-        <a class="paper-button"
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted at
+        <a class="news-venue"
            href="https://www.sciencedirect.com/science/article/pii/S030645732600289X"
            target="_blank"
-           rel="noopener noreferrer">
-          View paper
-          <span class="external-arrow" aria-hidden="true">↗</span>
-        </a>
+           rel="noopener noreferrer">Information Processing &amp; Management 2026</a>
+        <span>(SSCI/SCIE Q1; #3 in Information Systems)</span>
+        🎉🎉
       </div>
-    </article>
+
+      <div class="author-role">
+        First Author
+      </div>
+
+      <div class="news-paper-title">
+        <em>
+          ERA: Aligning Semantic Models with Revealed Economic Preference
+          for Real-Time and Explainable Patent Valuation
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://www.sciencedirect.com/science/article/pii/S030645732600289X"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
 
 
-    <article class="news-item">
-      <div class="news-date">Apr 2026</div>
+  <article class="news-item">
+    <div class="news-date">Apr 2026</div>
 
-      <div class="news-content">
-        <div class="news-summary">
-          Paper accepted at
-          <a class="news-venue"
-             href="https://2026.aclweb.org/"
-             target="_blank"
-             rel="noopener noreferrer">ACL 2026</a>
-          🎉🎉
-        </div>
-
-        <div class="news-paper-title">
-          <em>
-            PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation
-          </em>
-        </div>
-
-        <a class="paper-button"
-           href="https://aclanthology.org/2026.findings-acl.735/"
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted at
+        <a class="news-venue"
+           href="https://2026.aclweb.org/"
            target="_blank"
-           rel="noopener noreferrer">
-          View paper
-          <span class="external-arrow" aria-hidden="true">↗</span>
-        </a>
+           rel="noopener noreferrer">ACL 2026</a>
+        🎉🎉
       </div>
-    </article>
+
+      <div class="author-role">
+        First Author
+      </div>
+
+      <div class="news-paper-title">
+        <em>
+          PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://aclanthology.org/2026.findings-acl.735/"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
 
 
-    <article class="news-item">
-      <div class="news-date">Nov 2025</div>
+  <article class="news-item">
+    <div class="news-date">Nov 2025</div>
 
-      <div class="news-content">
-        <div class="news-summary">
-          Paper accepted at
-          <a class="news-venue"
-             href="https://2025.emnlp.org/"
-             target="_blank"
-             rel="noopener noreferrer">EMNLP 2025</a>
-          🎉🎉
-        </div>
-
-        <div class="news-paper-title">
-          <em>
-            PatentScore: Multi-Dimensional Evaluation of LLM-Generated Patent Claims
-          </em>
-        </div>
-
-        <a class="paper-button"
-           href="https://aclanthology.org/2025.emnlp-main.1564/"
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted at
+        <a class="news-venue"
+           href="https://2025.emnlp.org/"
            target="_blank"
-           rel="noopener noreferrer">
-          View paper
-          <span class="external-arrow" aria-hidden="true">↗</span>
-        </a>
+           rel="noopener noreferrer">EMNLP 2025</a>
+        🎉🎉
       </div>
-    </article>
 
-
-    <article class="news-item">
-      <div class="news-date">Feb 2024</div>
-
-      <div class="news-content">
-        <div class="news-summary">
-          Started PhD program in the School of Computing at
-          <a class="news-venue"
-             href="https://www.mq.edu.au/"
-             target="_blank"
-             rel="noopener noreferrer">Macquarie University</a>.
-        </div>
+      <div class="author-role">
+        First Author
       </div>
-    </article>
 
-  </div>
+      <div class="news-paper-title">
+        <em>
+          PatentScore: Multi-Dimensional Evaluation of LLM-Generated Patent Claims
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://aclanthology.org/2025.emnlp-main.1564/"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
+
+
+  <article class="news-item">
+    <div class="news-date">Feb 2024</div>
+
+    <div class="news-content">
+      <div class="news-summary">
+        Started PhD program in the School of Computing at
+        <a class="news-venue"
+           href="https://www.mq.edu.au/"
+           target="_blank"
+           rel="noopener noreferrer">Macquarie University</a>.
+      </div>
+    </div>
+  </article>
+
+</div>
 
 
   <!-- =======================================================
