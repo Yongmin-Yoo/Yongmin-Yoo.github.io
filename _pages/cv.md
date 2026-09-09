@@ -36,6 +36,9 @@ Peer-Reviewed Publications
 ======
 
 ### 2026
+* Seung-Won Seo, Won Ik Cho, and **Yongmin Yoo** (corresponding author).  
+  “[Domain-Agnostic Neural Topic Modeling with Contextual Token-Level Semantic Graph Representation](https://arxiv.org/abs/2608.16269).”  
+  *Proceedings of AACL-IJCNLP 2026 (Main Conference).*
 
 * **Yongmin Yoo**, Qiongkai Xu, and Longbing Cao.  
   “[Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Validation](https://arxiv.org/abs/2604.04295).”  
