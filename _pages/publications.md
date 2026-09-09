@@ -171,6 +171,26 @@ author_profile: true
 
 
   <li class="featured-publication">
+    <span class="publication-badge top-venue-badge">★ ACL Findings 2026</span>
+    <span class="publication-year">Conference Paper</span><br>
+
+    <a class="publication-title"
+       href="https://aclanthology.org/2026.findings-acl.735/"
+       target="_blank"
+       rel="noopener noreferrer">
+      PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation
+    </a>
+
+    <div class="publication-authors">
+      <strong>Yongmin Yoo</strong>, Qiongkai Xu, and Longbing Cao.
+    </div>
+
+    <div class="publication-venue">
+      <em>Findings of the Association for Computational Linguistics: ACL 2026</em>.
+    </div>
+  </li>
+
+  <li class="featured-publication">
     <span class="publication-badge top-venue-badge">★ IP&amp;M 2026</span>
     <span class="publication-year">Journal Article</span><br>
 
@@ -190,28 +210,6 @@ author_profile: true
     </div>
   </li>
 
-
-
-
-  <li class="featured-publication">
-    <span class="publication-badge top-venue-badge">★ ACL Findings 2026</span>
-    <span class="publication-year">Conference Paper</span><br>
-
-    <a class="publication-title"
-       href="https://aclanthology.org/2026.findings-acl.735/"
-       target="_blank"
-       rel="noopener noreferrer">
-      PatentMind: A Multi-Aspect Reasoning Graph for Patent Similarity Evaluation
-    </a>
-
-    <div class="publication-authors">
-      <strong>Yongmin Yoo</strong>, Qiongkai Xu, and Longbing Cao.
-    </div>
-
-    <div class="publication-venue">
-      <em>Findings of the Association for Computational Linguistics: ACL 2026</em>.
-    </div>
-  </li>
 
 </ul>
 
