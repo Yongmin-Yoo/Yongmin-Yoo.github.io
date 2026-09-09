@@ -30,6 +30,13 @@ He is one of the few interdisciplinary AI researchers with formal degrees in bot
 
 <h2>💡News</h2>
 
+- **Sep 2026**  
+  Paper accepted at <a href="https://2026.aaclnet.org/">AACL-IJCNLP 2026</a> 🎉🎉  
+  I served as the <strong>corresponding author</strong>.
+
+  *Domain-Agnostic Neural Topic Modeling with Contextual Token-Level Semantic Graph Representation*
+
+
 - **Aug 2026**  
   Paper accepted at <a href="https://2026.emnlp.org/">EMNLP 2026</a>🎉🎉
   
