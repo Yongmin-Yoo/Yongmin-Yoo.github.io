@@ -832,7 +832,20 @@ redirect_from:
            href="https://www.acml-conf.org/2026/"
            target="_blank"
            rel="noopener noreferrer">ACML</a>
+
+        <a class="service-tag"
+           href="https://aclrollingreview.org/"
+           target="_blank"
+           rel="noopener noreferrer">ACL Rolling Review (ARR)</a>
+
+        <a class="service-tag"
+           href="https://www2026.thewebconf.org/"
+           target="_blank"
+           rel="noopener noreferrer">WWW</a>
+
       </div>
+
+      
     </div>
 
     <div class="service-row">
