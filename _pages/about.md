@@ -583,6 +583,7 @@ redirect_from:
            href="https://2026.aaclnet.org/"
            target="_blank"
            rel="noopener noreferrer">AACL-IJCNLP 2026</a>
+           <strong>(Oral Presentation)</strong>
         🎉🎉
       </div>
 
