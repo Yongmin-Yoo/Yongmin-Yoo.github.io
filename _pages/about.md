@@ -632,7 +632,7 @@ redirect_from:
       </div>
 
       <a class="paper-button"
-         href="https://arxiv.org/abs/2604.04295"
+         href="https://aclanthology.org/2026.findings-emnlp.1386"
          target="_blank"
          rel="noopener noreferrer">
         View paper
