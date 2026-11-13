@@ -579,7 +579,7 @@ redirect_from:
     <div class="news-content">
       <div class="news-summary">
         Paper accepted to
-        <span class="news-venue">Findings of EACL 2027</span>
+        <span class="news-venue">EACL 2027</span>
         🎉🎉
       </div>
 
