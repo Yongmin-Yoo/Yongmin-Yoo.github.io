@@ -573,6 +573,38 @@ redirect_from:
 
 <div class="news-list">
 
+    <article class="news-item">
+    <div class="news-date">Nov 2026</div>
+
+    <div class="news-content">
+      <div class="news-summary">
+        Paper accepted to
+        <span class="news-venue">Findings of EACL 2027</span>
+        🎉🎉
+      </div>
+
+      <div class="author-role">
+        Co-first Author
+      </div>
+
+      <div class="news-paper-title">
+        <em>
+          FlowPlan-G2P: A Structured Generation Framework for Transforming
+          Scientific Papers into Patent Descriptions
+        </em>
+      </div>
+
+      <a class="paper-button"
+         href="https://arxiv.org/abs/2601.02589"
+         target="_blank"
+         rel="noopener noreferrer">
+        View paper
+        <span class="external-arrow" aria-hidden="true">↗</span>
+      </a>
+    </div>
+  </article>
+
+
   <article class="news-item">
     <div class="news-date">Sep 2026</div>
 
