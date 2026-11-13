@@ -573,36 +573,54 @@ redirect_from:
 
 <div class="news-list">
 
-    <article class="news-item">
+  <article class="news-item">
     <div class="news-date">Nov 2026</div>
 
     <div class="news-content">
       <div class="news-summary">
-        Paper accepted to
-        <span class="news-venue">EACL 2027</span>
+        Two papers accepted to
+        <span class="news-venue">Findings of EACL 2027</span>
         🎉🎉
       </div>
 
-      <div class="author-role">
-        Co-first Author
+      <!-- FlowPlan-G2P -->
+      <div>
+        <div class="author-role">
+          Co-First Author
+        </div>
+
+        <div class="news-paper-title">
+          <em>
+            FlowPlan-G2P: A Structured Generation Framework for Transforming
+            Scientific Papers into Patent Descriptions
+          </em>
+        </div>
+
+        <a class="paper-button"
+           href="https://arxiv.org/abs/2601.02589"
+           target="_blank"
+           rel="noopener noreferrer">
+          View paper
+          <span class="external-arrow" aria-hidden="true">↗</span>
+        </a>
       </div>
 
-      <div class="news-paper-title">
-        <em>
-          FlowPlan-G2P: A Structured Generation Framework for Transforming
-          Scientific Papers into Patent Descriptions
-        </em>
-      </div>
+      <!-- KNOT-RAG -->
+      <div style="margin-top: 1.2rem;">
+        <div class="author-role">
+          Co-Author
+        </div>
 
-      <a class="paper-button"
-         href="https://arxiv.org/abs/2601.02589"
-         target="_blank"
-         rel="noopener noreferrer">
-        View paper
-        <span class="external-arrow" aria-hidden="true">↗</span>
-      </a>
+        <div class="news-paper-title">
+          <em>
+            KNOT-RAG: Knowledge Network Organization and Traversal for
+            Graph Retrieval-Augmented Generation
+          </em>
+        </div>
+      </div>
     </div>
   </article>
+
 
 
   <article class="news-item">
@@ -622,6 +640,8 @@ redirect_from:
       <div class="author-role">
         Corresponding Author
       </div>
+
+      
 
       <div class="news-paper-title">
         <em>
