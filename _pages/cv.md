@@ -34,6 +34,14 @@ Research and Professional Experience
 
 Peer-Reviewed Publications
 ======
+### 2027
+* Kris W Pan and **Yongmin Yoo** (co-first authors; equal contribution).  
+  “[FlowPlan-G2P: A Structured Generation Framework for Transforming Scientific Papers into Patent Descriptions](https://arxiv.org/abs/2601.02589).”  
+  *Findings of the Association for Computational Linguistics: EACL 2027.*
+
+* Seung-Won Seo, Bongmin Kim, Won Ik Cho, **Yongmin Yoo**, and Darongsae Kwon.  
+  “KNOT-RAG: Knowledge Network Organization and Traversal for Graph Retrieval-Augmented Generation.”  
+  *Findings of the Association for Computational Linguistics: EACL 2027.*
 
 ### 2026
 * Seung-Won Seo, Won Ik Cho, and **Yongmin Yoo** (corresponding author).  
