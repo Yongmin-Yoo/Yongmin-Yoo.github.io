@@ -578,8 +578,11 @@ redirect_from:
 
     <div class="news-content">
       <div class="news-summary">
-        Two papers accepted to
-        <span class="news-venue">EACL 2027</span>
+        Paper accepted at
+        <a class="news-venue"
+           href="https://2027.eacl.org/"
+           target="_blank"
+           rel="noopener noreferrer">EACL 2026</a>
         🎉🎉
       </div>
 
