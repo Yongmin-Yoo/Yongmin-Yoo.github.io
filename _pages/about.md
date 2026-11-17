@@ -582,7 +582,7 @@ redirect_from:
         <a class="news-venue"
            href="https://2027.eacl.org/"
            target="_blank"
-           rel="noopener noreferrer">EACL 2026</a>
+           rel="noopener noreferrer">EACL 2027</a>
         🎉🎉
       </div>
 
